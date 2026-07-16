@@ -1,0 +1,2 @@
+# Linux_trials
+MY FIRST LINUX REPOSITORY ON GITHUB 
